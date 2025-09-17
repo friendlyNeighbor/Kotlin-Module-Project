@@ -1,3 +1,12 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+fun main() {
+
+    val helper = Helper()
+
+    var arrayArchives:MutableList<Archives> = ArrayList()
+
+    helper.printListArchives(arrayArchives)
+
+
 }
+
+
