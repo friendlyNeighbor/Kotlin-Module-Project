@@ -1,1 +1,0 @@
-class Notes(val name:String, var text:String)
